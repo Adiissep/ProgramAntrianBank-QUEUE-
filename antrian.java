@@ -1,7 +1,10 @@
 package Antrian;
 /**
- *
+ * 
  * @author ADVANG4C
+ * Nama : Adi Sepriyadi
+ * NIM  : 20200040093
+ * Kelas: TI20E Reg B
  */
 import java.util.*;
 public class antrian {
